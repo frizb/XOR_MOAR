@@ -1,7 +1,7 @@
 # XOR_MOAR
 Simple Python Utilities Developed During CTF Events For XORing Data
 
-##xorfiles.py  
+## xorfiles.py  
 ```
 root@kali:~/# python xorfiles.py -h
 XOR Binary Files: 0.1 Updated: August 28, 2018
@@ -23,7 +23,7 @@ Wrote xor binary output to file: output.bin
 
 ```
 
-##base64tobin.py
+## base64tobin.py
 ```
 root@kali:~/# python base64tobin.py -h
 Base64 to Binary: 0.1 Updated: August 28, 2018
@@ -42,5 +42,5 @@ Base64 to Binary: 0.1 Updated: August 28, 2018
 Wrote binary to file: output.bin
 ```
 
-##XORBruteForce.py
+## XORBruteForce.py
 Very raw XOR Brute Forcing Script.  Work in progres....
